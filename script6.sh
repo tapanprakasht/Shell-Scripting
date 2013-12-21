@@ -1,0 +1,6 @@
+die()
+ {
+    echo "TApan"
+ }
+die()
+
